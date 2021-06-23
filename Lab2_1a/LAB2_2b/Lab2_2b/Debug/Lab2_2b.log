@@ -1,0 +1,4 @@
+﻿  Lab2_2b.cpp
+C:\Users\Viacheslav Zavadskyi\Documents\GitHub\CS_LAB_2\Lab2_1a\LAB2_2b\Lab2_2b\Lab2_2b.cpp(10,16): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+C:\Users\Viacheslav Zavadskyi\Documents\GitHub\CS_LAB_2\Lab2_1a\LAB2_2b\Lab2_2b\Lab2_2b.cpp(35,31): warning C4293: >>: отрицательное или слишком большое смещение; поведение не определено
+  Lab2_2b.vcxproj -> C:\Users\Viacheslav Zavadskyi\Documents\GitHub\CS_LAB_2\Lab2_1a\LAB2_2b\Lab2_2b\Debug\Lab2_2b.exe
