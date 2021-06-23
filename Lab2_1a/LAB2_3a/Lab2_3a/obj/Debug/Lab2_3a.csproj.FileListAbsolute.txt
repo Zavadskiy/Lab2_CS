@@ -1,0 +1,7 @@
+C:\Users\Viacheslav Zavadskyi\Documents\GitHub\Lab2_CS\Lab2_1a\LAB2_3a\Lab2_3a\bin\Debug\Lab2_3a.exe.config
+C:\Users\Viacheslav Zavadskyi\Documents\GitHub\Lab2_CS\Lab2_1a\LAB2_3a\Lab2_3a\bin\Debug\Lab2_3a.exe
+C:\Users\Viacheslav Zavadskyi\Documents\GitHub\Lab2_CS\Lab2_1a\LAB2_3a\Lab2_3a\bin\Debug\Lab2_3a.pdb
+C:\Users\Viacheslav Zavadskyi\Documents\GitHub\Lab2_CS\Lab2_1a\LAB2_3a\Lab2_3a\obj\Debug\Lab2_3a.csprojAssemblyReference.cache
+C:\Users\Viacheslav Zavadskyi\Documents\GitHub\Lab2_CS\Lab2_1a\LAB2_3a\Lab2_3a\obj\Debug\Lab2_3a.csproj.CoreCompileInputs.cache
+C:\Users\Viacheslav Zavadskyi\Documents\GitHub\Lab2_CS\Lab2_1a\LAB2_3a\Lab2_3a\obj\Debug\Lab2_3a.exe
+C:\Users\Viacheslav Zavadskyi\Documents\GitHub\Lab2_CS\Lab2_1a\LAB2_3a\Lab2_3a\obj\Debug\Lab2_3a.pdb
